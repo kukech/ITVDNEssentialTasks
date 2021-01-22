@@ -1,0 +1,7 @@
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\bin\Debug\Task03.exe.config
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\bin\Debug\Task03.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\bin\Debug\Task03.pdb
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\obj\Debug\Task03.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson003\Task03\obj\Debug\Task03.pdb
