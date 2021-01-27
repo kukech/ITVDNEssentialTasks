@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "podsosnyi_primer_c_yroka", "WpfApp1\podsosnyi_primer_c_yroka.csproj", "{14BD97F0-C71C-4441-8FE2-D123F39A6DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{9041EE21-6E5E-412D-8CE4-FE8AE0CE53B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4", "task4\task4.csproj", "{B19C0894-019D-4E6A-B249-A0D400A8819C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BD97F0-C71C-4441-8FE2-D123F39A6DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BD97F0-C71C-4441-8FE2-D123F39A6DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BD97F0-C71C-4441-8FE2-D123F39A6DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BD97F0-C71C-4441-8FE2-D123F39A6DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9041EE21-6E5E-412D-8CE4-FE8AE0CE53B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9041EE21-6E5E-412D-8CE4-FE8AE0CE53B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9041EE21-6E5E-412D-8CE4-FE8AE0CE53B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9041EE21-6E5E-412D-8CE4-FE8AE0CE53B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19C0894-019D-4E6A-B249-A0D400A8819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19C0894-019D-4E6A-B249-A0D400A8819C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19C0894-019D-4E6A-B249-A0D400A8819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19C0894-019D-4E6A-B249-A0D400A8819C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7491DA-735B-400C-B533-B3C62B6205AF}
+	EndGlobalSection
+EndGlobal
