@@ -5,3 +5,10 @@ E:\c_sharp\proj\Lesson013\task1\obj\Debug\task1.csprojAssemblyReference.cache
 E:\c_sharp\proj\Lesson013\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
 E:\c_sharp\proj\Lesson013\task1\obj\Debug\task1.exe
 E:\c_sharp\proj\Lesson013\task1\obj\Debug\task1.pdb
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\bin\Debug\task1.exe.config
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\bin\Debug\task1.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\bin\Debug\task1.pdb
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\obj\Debug\task1.csprojAssemblyReference.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\obj\Debug\task1.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson013\task1\obj\Debug\task1.pdb
