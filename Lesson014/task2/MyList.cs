@@ -52,6 +52,7 @@ namespace task2
                 return true;
             }
             else
+                this.Reset();
                 return false;
         }
         public void Reset()
