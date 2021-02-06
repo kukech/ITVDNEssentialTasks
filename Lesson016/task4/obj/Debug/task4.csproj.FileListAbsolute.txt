@@ -1,0 +1,7 @@
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\bin\Debug\task4.exe.config
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\bin\Debug\task4.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\bin\Debug\task4.pdb
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\obj\Debug\task4.csprojAssemblyReference.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\obj\Debug\task4.exe
+E:\c_sharp\proj\ITVDNEssential\Lesson016\task4\obj\Debug\task4.pdb
